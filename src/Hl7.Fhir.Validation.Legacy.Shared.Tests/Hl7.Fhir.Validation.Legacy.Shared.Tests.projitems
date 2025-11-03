@@ -21,6 +21,7 @@
     <Compile Include="$(MSBuildThisFileDirectory)TestDataHelper.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)TimingSource.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)Validation\BasicValidationTests.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Validation\ChargeItemDefinitionValidationTests.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)Validation\CustomResourceValidationTests.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)Validation\IssuesTests.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)Validation\MinMaxValidationTests.cs" />
